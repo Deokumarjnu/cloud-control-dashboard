@@ -1,1 +1,2 @@
 # cloud-control-dashboard
+The main purpose of this repo is to have simplyfy the deployment process, viewing the logs for the api's, start or stop the ec2 instances for the non prod account and many more thing
