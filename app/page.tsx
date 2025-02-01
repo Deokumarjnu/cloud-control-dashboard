@@ -1,3 +1,4 @@
+import AwsAccountsDashboard from "./AwsAccountsDashboard";
 import styles from "./page.module.css";
 
 export default function Home() {
@@ -5,7 +6,7 @@ export default function Home() {
     <div className={styles.page}>
       <main className={styles.main}>
         <div>
-          Body
+          <AwsAccountsDashboard />
         </div>
       </main>
       <footer className={styles.footer}>
